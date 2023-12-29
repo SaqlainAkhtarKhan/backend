@@ -3,7 +3,7 @@
 
  app.get('/',(req,res)=>{
     res.jason({
-        mesg:'Hello Backend'
+        mesg:'Hello'
     })
  })
 
